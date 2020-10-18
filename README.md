@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 Full Stack Developer ∙ Team Lead ∙ FinTech ∙ Python ∙ Quality Assurance ∙ Software Engineer ∙ Back-End Developer
  
-(201) 687-9961
-whoisareyes@gmail.com 
-linkedin.com/in/whoisareyes
+(201) 687-9961 | whoisareyes@gmail.com | www.linkedin.com/in/whoisareyes
 
 ∙  Hands-on development lead and code reviewer with experience working with offshore teams.
 ∙  Experienced in Agile, Waterfall, and Lean Software development methodologies
