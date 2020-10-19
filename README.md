@@ -19,10 +19,10 @@ Full Stack Developer ∙ Team Lead ∙ FinTech ∙ Python ∙ Quality Assurance 
  
 (201) 687-9961 | whoisareyes@gmail.com | www.linkedin.com/in/whoisareyes
 
-∙  Hands-on development lead and code reviewer with experience working with offshore teams.
-∙  Experienced in Agile, Waterfall, and Lean Software development methodologies
-∙  Significant contributions to full stack software engineering efforts for Financial Services and Trading technology 
-∙  Reduces development costs by identifying ways to streamline the documentation process and areas to improve operational efficiency.
+*  Hands-on development lead and code reviewer with experience working with offshore teams.
+*  Experienced in Agile, Waterfall, and Lean Software development methodologies
+*  Significant contributions to full stack software engineering efforts for Financial Services and Trading technology 
+*  Reduces development costs by identifying ways to streamline the documentation process and areas to improve operational efficiency.
 
 Languages: Python, JavaScript, HTML, CSS
 Databases: Oracle, PostgreSQL, MySQL, Sybase, SQLite, MongoDB, Redis, Memcached
