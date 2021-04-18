@@ -1,23 +1,19 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adolfo
 
-<!--
-**whoisareyes/whoisareyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full Stack Developer ∙ Team Lead ∙ FinTech ∙ Python ∙ Quality Assurance ∙ Software Engineer ∙ Back-End Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Toolbox
 
-Full Stack Developer ∙ Team Lead ∙ FinTech ∙ Python ∙ Quality Assurance ∙ Software Engineer ∙ Back-End Developer
- 
-(201) 687-9961 | whoisareyes@gmail.com | www.linkedin.com/in/whoisareyes
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML5 Logo" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="PYTHON Logo" width="125" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="DOCKER Logo" width="100" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="FLASK Logo" width="40" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="REACT Logo" width="50" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="POSTGRESQL Logo" width="50" height="45"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="75" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="GIT Logo" width="75" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-logo.svg" alt="DIGITALOCEAN Logo" width="60" height="45"/>
+
+
+
+
+---
+
+              
 
 *  Hands-on development lead and code reviewer with experience working with offshore teams.
 *  Experienced in Agile, Waterfall, and Lean Software development methodologies
