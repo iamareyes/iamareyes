@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adolfo
 
-#### Full Stack Developer ∙ Team Lead ∙ FinTech ∙ Python ∙ Quality Assurance ∙ Software Engineer ∙ Back-End Developer
-
 ---
 
 🧰 Toolbox
@@ -12,8 +10,8 @@
 
 
 ---
-
               
+#### Full Stack Developer ∙ Team Lead ∙ FinTech ∙ Python ∙ Quality Assurance ∙ Software Engineer ∙ Back-End Developer
 
 *  Hands-on development lead and code reviewer with experience working with offshore teams.
 *  Experienced in Agile, Waterfall, and Lean Software development methodologies
