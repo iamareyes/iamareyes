@@ -23,3 +23,10 @@ Databases: Oracle, PostgreSQL, MySQL, Sybase, SQLite, MongoDB, Redis, Memcached
 Operating Systems: Ubuntu, Arch Linux, CentOS, Windows 7, Windows 10
 Additional Tools: Git, Panas, Matplotlib, Flask, Numpy, SQLAlchemy, D3.js, Selenium, jQuery, Ajax, Django, Bootstrap, RabbitMQ, ReactJS, Angular, Looker. Lean, Agile, and Waterfall SDLC methodologies.
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisareyes&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisareyes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
