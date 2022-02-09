@@ -24,7 +24,7 @@ Additional Tools: Git, Panas, Matplotlib, Flask, Numpy, SQLAlchemy, D3.js, Selen
 - [x] Developer Associate
 - [x] Solutions Architect Associate
 - [x] SysOps Administrator Associate
-- [ ] Security Specialty
+- [x] Security Specialty
 - [ ] Database Specialty
 - [ ] Data Analytics Specialty
 - [ ] Machine Learning Specialty
