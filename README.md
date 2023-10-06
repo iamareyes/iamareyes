@@ -25,5 +25,3 @@ Additional Tools: Git, Panas, Matplotlib, Flask, Numpy, SQLAlchemy, D3.js, Selen
 - [x] Solutions Architect Associate
 - [x] SysOps Administrator Associate
 - [x] Security Specialty
-- [ ] Devops Engineer ProFessional
-- [ ] Solutions Architect Professional
