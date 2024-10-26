@@ -14,10 +14,18 @@
 *  Significant contributions to full stack software engineering efforts for Financial Services and Trading technology 
 *  Reduces development costs by identifying ways to streamline the documentation process and areas to improve operational efficiency.
 
-Languages: Python, JavaScript, HTML, CSS
-Databases: Oracle, PostgreSQL, MySQL, Sybase, SQLite, MongoDB, Redis, Memcached
-Operating Systems: Ubuntu, Arch Linux, CentOS, Windows 7, Windows 10
-Additional Tools: Git, Panas, Matplotlib, Flask, Numpy, SQLAlchemy, D3.js, Selenium, jQuery, Ajax, Django, Bootstrap, RabbitMQ, ReactJS, Angular, Looker. Lean, Agile, and Waterfall SDLC methodologies.
+Professional Summary
+---
+Experienced Full Stack Developer and Senior Software Engineer with a strong background in Python and a proven track record in developing, optimizing, and securing financial technology solutions. Over 8 years of experience collaborating with cross-functional teams to design and implement high-performance, scalable, and secure applications across diverse sectors such as banking, blockchain, and risk analytics. Recognized for leading API development, enforcing best practices in code quality, and ensuring seamless product integration in agile environments.
+
+TECHNICAL EXPERTISE 
+---
+Languages & Frameworks: Python, JavaScript (ReactJS), Flask, FastAPI, Django
+Databases: PostgreSQL, TimescaleDB, Sybase, Oracle SQL,  MongoDB
+Tools & Platforms:  AWS, Docker, Rancher, Git, GitHub, Bitbucket, Jenkins, Terraform
+Data & Analytics:Looker, Memcached, Redis, SQLAlchemy, Kibana
+Cloud & DevOps: AWS Services (Cloud Practitioner, SysOps Administrator, Solution Architect Associate, Developer, Security), CI/CD, Infrastructure as Code (IaC), Balsamiq
+
 
 #### ☁️ AWS Certifications☁️
 - [x] Cloud Practitioner
